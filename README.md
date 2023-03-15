@@ -1,5 +1,6 @@
 # 💫 About Me:
-🌱 I’m currently learning JavaScript, React, Cloud Network Engineering<br><br>👨‍💻 All of my projects are available at https://github.com/Ception<br><br>💬 Ask me about Anything! I've got a wide range of skills! <br><br>📫 How to reach me contact@aleksmanov.me<br><br>⚡ Fun fact I picked up programming as a hobby at the age of 14. I'm now pursuing it as my dream career.
+🌱 I’m currently learning JavaScript, React, Cloud Network Engineering<br><br>👨‍💻 All of my projects are available at https://github.com/Ception?tab=repositories<br><br>💬 Ask me about Anything! I've got a wide range of skills! <br><br>📫 How to reach me contact@aleksmanov.me<br><br>⚡ Fun fact I picked up programming as a hobby at the age of 14. I'm now pursuing it as my dream career.<br><br>
+<h6 align="center"><b><i>*** NOTE: A GOOD CHUNK OF MY PROJECTS ARE NOT PUBLICALLY LISTED, DM IF YOU"D LIKE FULL ACCESS ***</i></b></h6>
 
 
 ## 🌐 Socials:
