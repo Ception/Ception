@@ -1,8 +1,6 @@
 # 🚀 Hello, World!
 
 ### About Me:
-🌱 Currently leveraging the power of ***Java, JavaScript, TypeScript, Next.js, Tailwind CSS*** 💪🏻
-
 👨‍💻 All projects [here](https://github.com/Ception?tab=repositories)  
 💬 Let's talk! I've got a diverse skillset.  
 📫 [contact@aleksmanov.me](mailto:contact@aleksmanov.me)  
